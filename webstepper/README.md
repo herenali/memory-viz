@@ -4,7 +4,7 @@ This folder contains the source code for the `memory-viz-webstepper` project.
 
 ## Developers
 
-To run the demo website locally, follow these instructions from the `memory-viz/webstepper/` folder.
+To run the webstepper website locally, follow these instructions from the `memory-viz/webstepper/` folder.
 
 _Note_: you can instead run the commands in the root project directory by adding the argument `--workspace=webstepper`.
 
